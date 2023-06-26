@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.navbar{
+    position: fixed;
+    width: 100;
+    background: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar .logo a{
+    color: #fff;
+    font-size: 35;
+    font-weight: 600;
+}
+.navbar .minu li{
+    list-style: none;
+    display: :inline-block;
+}
+.navbar .menu li a{
+    color: #fff;
+}
